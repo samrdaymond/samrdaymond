@@ -1,10 +1,6 @@
 - 👋 Hi, I’m @samrdaymond
 - 👀 I’m interested in Administration and Infrastructure
-- 🌱 I’m currently learning AZ104
-- 💞️ I’m looking to collaborate on Infrastructure As Code
-- 📫 How to reach me:
--   LinkedIn  - 
--   Email     -
+- 🌱 I’m currently working on Kubernetes
 
 
 <!---
